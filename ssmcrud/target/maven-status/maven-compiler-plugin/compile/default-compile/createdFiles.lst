@@ -1,7 +1,0 @@
-com\wxl\dao\StuMapper.class
-com\wxl\controller\StuController.class
-com\wxl\Interceptor\CommonInterceptor.class
-com\wxl\pojo\Stu.class
-com\wxl\response\RespBean.class
-com\wxl\service\impl\StuServiceImpl.class
-com\wxl\service\StuService.class
